@@ -1,6 +1,6 @@
-🛒 Análisis de Eficiencia de Tiendas
+🛒 El propósito del análisis realizado
 
-Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas utilizando métricas clave como ingresos, ventas por categoría, calificaciones, productos más y menos vendidos, y costos promedio de envío. El propósito final es identificar cuál de las tiendas tiene el desempeño más bajo para una posible venta del parte del dueño. 
+Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas con el propósito de análisis la eficiencia se utiliza métricas clave como ingresos, ventas por categoría, calificaciones, productos más y menos vendidos, y costos promedio de envío. El propósito final es identificar cuál de las tiendas tiene el desempeño más bajo para una posible venta del parte del dueño. 
 
 🚀 Tecnologías Utilizadas
 
@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas util
 - Matplotlib – para visualización de datos.
 - Jupyter Notebook / Google Colab – entorno usado para desarrollo y visualización interactiva.
 
-⚙️ Cómo funciona el análisis Carga de datos: se importan los datos de cada tienda.
+⚙️ Cómo funciona el análisis Carga de datos: se importan los datos de cada tienda [AluraStoreLatam.ipynb](https://github.com/alura-es-cursos/challenge1-data-science-latam.git)
 
 Cálculo de métricas:
 

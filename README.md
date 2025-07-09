@@ -1,11 +1,13 @@
 🛒 Análisis de Eficiencia de Tiendas
-Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas utilizando métricas clave como ingresos, ventas por categoría, calificaciones, productos más y menos vendidos, y costos promedio de envío. El propósito final es identificar cuál de las tiendas es la menos eficiente y por qué.
+
+Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas utilizando métricas clave como ingresos, ventas por categoría, calificaciones, productos más y menos vendidos, y costos promedio de envío. El propósito final es identificar cuál de las tiendas tiene el desempeño más bajo para una posible venta del parte del dueño. 
 
 🚀 Tecnologías Utilizadas
-Python 3.10+
-Pandas – para manipulación y análisis de datos.
-Matplotlib – para visualización de datos.
-Jupyter Notebook / Google Colab – entorno usado para desarrollo y visualización interactiva.
+
+- Python 3.10+
+- Pandas – para manipulación y análisis de datos.
+- Matplotlib – para visualización de datos.
+- Jupyter Notebook / Google Colab – entorno usado para desarrollo y visualización interactiva.
 
 ⚙️ Cómo funciona el análisis Carga de datos: se importan los datos de cada tienda.
 
@@ -26,6 +28,7 @@ Evaluación de eficiencia:
 📦 Dependencias
 Asegúrate de tener instaladas las siguientes librerías antes de ejecutar el análisis:
 
-pip install pandas matplotlib
+- pip install pandas matplotlib
+
 ✍️ Autor
 Gabriela Quispe Farfán @Gabrielaqf16

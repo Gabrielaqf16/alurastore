@@ -6,27 +6,26 @@ Python 3.10+
 Pandas – para manipulación y análisis de datos.
 Matplotlib – para visualización de datos.
 Jupyter Notebook / Google Colab – entorno usado para desarrollo y visualización interactiva.
+
 ⚙️ Cómo funciona el análisis Carga de datos: se importan los datos de cada tienda.
 
 Cálculo de métricas:
 
-Ingreso total por tienda
+- Ingreso total por tienda
+- Ventas por categoría de productos
+- Calificación media que dan los clientes a las tiendas
+- Costo promedio de envío
+- Productos más y menos vendidos
 
-Ventas por categoría
+Visualización: 
+- se elaboran gráficos para visualizar los resultados
 
-Calificación media
-
-Costo promedio de envío
-
-Productos más y menos vendidos
-
-Visualización: se generan gráficos para ilustrar los resultados.
-
-Evaluación de eficiencia: se comparan los resultados para identificar la tienda con peor rendimiento.
+Evaluación de eficiencia: 
+- se comparan los resultados para identificar la tienda con el menor rendimiento.
 
 📦 Dependencias
 Asegúrate de tener instaladas las siguientes librerías antes de ejecutar el análisis:
 
 pip install pandas matplotlib
 ✍️ Autor
-Lucas Jimenez Uribe – Análisis de datos con Python
+Gabriela Quispe Farfán @Gabrielaqf16

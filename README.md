@@ -31,4 +31,4 @@ Asegúrate de tener instaladas las siguientes librerías antes de ejecutar el an
 - pip install pandas matplotlib
 
 ✍️ Autor
-Gabriela Quispe Farfán @Gabrielaqf16
+Gabriela Quispe Farfán -- [gabrielaqf16](https://github.com/gabrielaqf16)
